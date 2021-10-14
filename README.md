@@ -1,0 +1,2 @@
+# voice-and-face-recognisation-for-security
+Our Objective was to develop a framework that can secure a user's session info in a shared computer environment like a family computer or a University or School Computer where any unrelated person can access sessions that are not closed when a browser is closed. examples for such sessions are private chatting applications like Instagram or a mail session like gmail or outlook that may contain very sensitive and important information
